@@ -13,9 +13,9 @@ Welcome to my project repository! 🚀 This collection features a variety of pro
 ## Projects Overview
 | Project Name           | Live Demo                                 |
 |------------------------|-------------------------------------------|
-| Project Name 1         | [Live Demo 1](https://example.com/demo1) |
-| Project Name 2         | [Live Demo 2](https://example.com/demo2) |
-| Project Name 3         | [Live Demo 3](https://example.com/demo3) |
+| Dice Roll              | [Dice Roll](https://akshaya101.github.io/javascript-projects/dice-roll/) |
+| Drum Kit               | [Drum Kit](https://akshaya101.github.io/javascript-projects/drum-kit/) |
+| TinDog                 | [Tindog](https://akshaya101.github.io/javascript-projects/tindog/) |
 
 
 ## How to Use
