@@ -16,7 +16,7 @@ Welcome to my project repository! 🚀 This collection features a variety of pro
 | Dice Roll              |[Read More about Dice Roll](https://akshaya101.github.io/projects/dice/)| [Dice Roll](https://akshaya101.github.io/javascript-projects/dice-roll/) |
 | Drum Kit               |[Read More about Drum Kit](https://akshaya101.github.io/projects/drum-kit/)| [Drum Kit](https://akshaya101.github.io/javascript-projects/drum-kit/) |
 | TinDog                 |[Read More about Tindog](https://akshaya101.github.io/projects/tindog/)| [Tindog](https://akshaya101.github.io/javascript-projects/tindog/) |
-| Simon Game             |[Read More about Simon Game](https://akshaya101.github.io/projects/simon-game/)]| [Simon Game](https://akshaya101.github.io/javascript-projects/simon-game/) |
+| Simon Game             |[Read More about Simon Game](https://akshaya101.github.io/projects/simon-game/)| [Simon Game](https://akshaya101.github.io/javascript-projects/simon-game/) |
 
 ## How to Use
 Include instructions on how to:
